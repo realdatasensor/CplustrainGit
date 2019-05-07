@@ -33,4 +33,5 @@ int main()
 	//if (luku1 != luku2); vertaillaa erisuuruutta tehd‰‰n t‰m‰ kun ehto on voimassa
 	system("pause");
 }
-//sysy
+//sysy toototott jojoj ojojojo
+
